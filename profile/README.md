@@ -24,7 +24,7 @@ Visit our website: https://pni-lab.github.io
 [![GitHub issues](https://img.shields.io/github/issues/spisakt/RPN-signature.svg)](https://GitHub.com/spisakt/RPN-signature/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/spisakt/RPN-signature.svg)](https://GitHub.com/spisakt/RPN-signature/issues?q=is%3Aissue+is%3Aclosed)
 
-### :arrow_right: [CTP-signature]([https://spisakt.github.io/RPN-signature](https://github.com/pni-lab/ctp-signature)): cortical thickness signature of pain sensitivity
+### :arrow_right: [CTP-signature](https://github.com/pni-lab/ctp-signature): cortical thickness signature of pain sensitivity
 
 ### :arrow_right: Statistical quantification of confounding-bias in predictive modelling
 
